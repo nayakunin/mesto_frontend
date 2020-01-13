@@ -13,6 +13,6 @@
   cursor: default;
 }
 
-.popup_edit .popup__button {
+.popup_edit .popup__button, .popup_avatar .popup__button {
   font-size: 18px;
 }
